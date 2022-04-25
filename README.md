@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdrianVillamayor?tab=repositories](https://github.com/AdrianVillamayor?tab=repositories)
 
-- 📝 I regularly write articles on [PHP, JS, Python, HTML and SASS](PHP, JS, Python, HTML and SASS)
+- 📝 I regularly write articles on PHP, JS, Python, HTML and SASS
 
 - 📫 How to reach me **adrian.villamayor@gmail.com**
 
