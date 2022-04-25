@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [I've been working as full-stack since 2017, focused on PHP, NodeJS and Python as backend and HTML, SASS and JS as frontend.](I've been working as full-stack since 2017, focused on PHP, NodeJS and Python as backend and HTML, SASS and JS as frontend.)
 
-- ⚡ Fun fact **I like 🍍**
+- **I like 🍍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
