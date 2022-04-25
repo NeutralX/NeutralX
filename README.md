@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Adrián</h1>
 <h3>A passionate web developer from Barcelona</h3>
 
+- 📄 I've been working as full-stack since 2017, focused on PHP, NodeJS and Python as backend and HTML, SASS and JS as frontend.
+
 - 🔭 I’m currently working on [SocialDiabetes](https://www.socialdiabetes.com/)
 
 - 🌱 I'm currently developing myself
@@ -10,8 +12,6 @@
 - 📝 I regularly write articles on [PHP, JS, Python, HTML and SASS](PHP, JS, Python, HTML and SASS)
 
 - 📫 How to reach me **adrian.villamayor@gmail.com**
-
-- 📄 Know about my experiences [I've been working as full-stack since 2017, focused on PHP, NodeJS and Python as backend and HTML, SASS and JS as frontend.](I've been working as full-stack since 2017, focused on PHP, NodeJS and Python as backend and HTML, SASS and JS as frontend.)
 
 - **I like 🍍**
 
