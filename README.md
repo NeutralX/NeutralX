@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Adrián</h1>
+<h1>Hi, I'm Adrián</h1>
 <h3>A passionate web developer from Barcelona</h3>
 
 - 📄 I've been working as full-stack since 2017, focused on PHP, NodeJS and Python as backend and HTML, SASS and JS as frontend.
@@ -15,12 +15,9 @@
 
 <h3> GitHub Stats</h3>
 
-<a href="https://github.com/AdrianVillamayor/AdrianVillamayor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVillamayor&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/AdrianVillamayor/AdrianVillamayor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianVillamayor&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AdrianVillamayor's GitHub Stats" />
-</a>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AdrianVillamayor&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=AdrianVillamayor&layout=compact&theme=dark)
 
 
 <h3 align="left">Connect with me:</h3>
