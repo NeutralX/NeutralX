@@ -15,9 +15,9 @@
 
 <h3> GitHub Stats</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AdrianVillamayor&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NeutralX&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=AdrianVillamayor&layout=compact&theme=dark)
+![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=NeutralX&layout=compact&theme=dark)
 
 
 <h3 align="left">Connect with me:</h3>
