@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [IXOS](https://www.ixos.pro/)
 
-- - 🌱 I’m currently learning **Unity and Swift**
+- 🌱 I’m currently learning **Unity and Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdrianVillamayor?tab=repositories](https://github.com/NeutralX?tab=repositories)
 
