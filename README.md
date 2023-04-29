@@ -1,17 +1,17 @@
-<h1>Hi, I'm Adrián</h1>
+<h1>Hi, I'm Alex</h1>
 <h3>A passionate web developer from Barcelona</h3>
 
-- 📄 I've been working as full-stack since 2017, focused on PHP, JS and Python as backend and HTML, SASS and JS as frontend.
+- 📄 I've been working as software developer for 2.5 years, mainly focused on Navision/BC and PL/1. For now I've been working as a web developer for 1 year, focused on Vue, JS, HTML, CSS/SASS as frontend and SQL, .NET and .NET Core as backend.
 
-- 🔭 I’m currently working on [SocialDiabetes](https://www.socialdiabetes.com/)
+- 🔭 I’m currently working on [IXOS](https://www.ixos.pro/)
 
-- 🌱 I'm currently developing myself
+- - 🌱 I’m currently learning **Unity and Swift**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdrianVillamayor?tab=repositories](https://github.com/AdrianVillamayor?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AdrianVillamayor?tab=repositories](https://github.com/NeutralX?tab=repositories)
 
-- 📫 How to reach me **adrian.villamayor@gmail.com**
+- 📫 How to reach me **alexromhor@gmail.com**
 
-- **I like 🍍**
+- **I'm in love with 🍟**
 
 <h3> GitHub Stats</h3>
 
@@ -22,7 +22,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/adrianvillamayor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/adrianvillamayor" height="30" width="40" /></a>
-<a href="https://twitter.com/adrii_vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/adrii_vs" height="30" width="40" /></a>
-<a href="https://dev.to/adrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adrii" height="30" width="40" /></a>
+<a href="https://twitter.com/NeutralZX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/adrii_vs" height="30" width="40" /></a>
 </p>
