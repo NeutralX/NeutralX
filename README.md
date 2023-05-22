@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unity and Swift**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NeutralX?tab=repositories](https://github.com/NeutralX?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/NeutralX](https://github.com/NeutralX?tab=repositories)
 
 - 📫 How to reach me **alexromhor@gmail.com**
 
