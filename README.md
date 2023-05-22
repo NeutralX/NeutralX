@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unity and Swift**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdrianVillamayor?tab=repositories](https://github.com/NeutralX?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/NeutralX?tab=repositories](https://github.com/NeutralX?tab=repositories)
 
 - 📫 How to reach me **alexromhor@gmail.com**
 
@@ -15,9 +15,9 @@
 
 <h3> GitHub Stats</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=NeutralX&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NeutralX&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs?username=NeutralX&layout=compact&theme=dark)
+![Top Languages Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NeutralX&layout=compact&theme=dark)
 
 
 <h3 align="left">Connect with me:</h3>
